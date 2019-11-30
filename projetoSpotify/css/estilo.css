@@ -116,6 +116,10 @@ h1 {
     color: black;
 }
 
+.carousel-control-next, .carousel-control-prev{
+    width: 5%;
+}
+
 footer ul{
     list-style: none;
 }
